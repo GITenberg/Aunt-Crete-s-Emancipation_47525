@@ -1,4 +1,8 @@
 _repo: Aunt-Crete-s-Emancipation_47525
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47525-h/images/cover.jpg
 creator:
   author:
     agent_name: Hill, Grace Livingston
@@ -17,6 +21,8 @@ description: Lucretia "Crete" Ward lives with her sister Carrie and niece Luella
   cousin" and leave for a resort. Donald is actually well-educated and rich, and pays
   for some pampering for Aunt Crete. When the two travel to the resort, it sets off
   a series of surprises.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47525#Aunt-Crete-s-Emancipation
 gutenberg_issued: '2014-12-04'
 gutenberg_type: Text
 identifiers:
